@@ -1,4 +1,4 @@
-service cloudera-scm-server restart  
+ 
 https://realpython.com/products/python-tricks-book/
 https://slurm.schedmd.com/tutorials.html
 https://www.rc.fas.harvard.edu/resources/documentation/convenient-slurm-commands/
@@ -9,6 +9,7 @@ https://console.aws.amazon.com/console/home?region=us-east-1
 
 import argparse
 
-https://ondemand.cloudera.com/courses
+
 
 https://www.cloudera.com/documentation/enterprise/latest/topics/cdh_ig_hive_troubleshooting.html
+https://ondemand.cloudera.com/courses/course-v1:Cloudera+CM+101/courseware/0691b04590bc474eb9cebc52e992b2ea/da58279eac5e45d7b13e3038f50ea0fe/?child=first
